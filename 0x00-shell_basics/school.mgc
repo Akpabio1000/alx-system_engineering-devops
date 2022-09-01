@@ -1,2 +1,2 @@
 #!/bin/bash
-grep SCHOOL *
+grep "SCHOOL" ~/*.txt
