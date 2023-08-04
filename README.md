@@ -9,7 +9,11 @@ This repository contains the following projects:
 - **Working with commands:** type, which, help, man
 - **Reading man pages**
 
-## Next Project
+## Shell Permission
+The use of the following commands
+**chmod,sudo,su,chown,chgrp,id,groups,whoami,adduser,useradd,addgroup**
+
+## Next project
 
 Follow me on twitter [@Akpabio1000](https://twitter.com/akpabio1000 "Profile Page")
 
